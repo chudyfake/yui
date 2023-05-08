@@ -1,2 +1,2 @@
-# yui
-Yui-chan (2.0) Discord Bot
+# Yui-chan (2.0) Discord Bot
+
